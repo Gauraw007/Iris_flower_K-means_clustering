@@ -1,9 +1,9 @@
 ## Iris_flower_K-means_clustering
 
 ### Libraries to Install
-Numpy
-Pandas
-Matplotlib
+Numpy,
+Pandas,
+Matplotlib,
 SciKit-Learn
 
 
