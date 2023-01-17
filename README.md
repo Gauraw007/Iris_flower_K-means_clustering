@@ -12,7 +12,7 @@ SciKit-Learn
 https://archive.ics.uci.edu/ml/datasets/iris
 
 ### K-means Cluster
-This code is using the K-Means clustering algorithm to cluster the data in the iris_df DataFrame, which is assumed to have columns containing features that you want to cluster on.
+This is project is about using the K-Means clustering algorithm to cluster the data in the iris_df DataFrame, which is assumed to have columns containing features that you want to cluster on.
 
 The K-Means algorithm clusters the data into a specified number of clusters (in this case specified by the range(1, 11) loop). It starts with a specified number of initial centroids, which are randomly chosen data points from the data. It then assigns each data point to the closest centroid, and the centroids are moved to the mean position of their assigned data points. This process is repeated until the centroids stop moving or a maximum number of iterations is reached.
 
